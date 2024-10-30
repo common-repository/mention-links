@@ -1,0 +1,71 @@
+# Copyright (C) 2023 rtCamp
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mention Links 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mention-links\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-01T06:38:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: mention-links\n"
+
+#. Plugin Name of the plugin
+msgid "Mention Links"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/rtCamp/mention-links"
+msgstr ""
+
+#. Description of the plugin
+msgid "Gutenberg autocomplete for posts and users. Type <code>@</code> to link to an author or <code>#</code> to link to a post, page, or custom post type."
+msgstr ""
+
+#. Author of the plugin
+msgid "rtCamp"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rtcamp.com"
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:53
+msgid "If no options for Custom Post Types support is selected, Posts and Pages will be used for Mention Links."
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:91
+msgid "Save Settings"
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:114
+msgid "Display username or display-name"
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:124
+msgid "Custom Post Types support"
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:152
+msgid "Display Name"
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:153
+msgid "Username"
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:156
+msgid "Whether to show user's display-name or username while mentioning them."
+msgstr ""
+
+#: inc/classes/plugin-configs/class-plugin-settings.php:232
+msgid "If a post type doesn't support REST API, then it won't be displayed here."
+msgstr ""
+
+#: mention-links.php:36
+msgid "Settings"
+msgstr ""
